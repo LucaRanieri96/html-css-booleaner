@@ -1,8 +1,30 @@
 .header{
     background-color:#4ea0ff;
+    height: fit-content;
 }
-   
+#logo{
+    height: 20px;
 
+}
+#pattern{
+    height: 30px;
+    
+}
+.grey{
+    color: grey;
+}
+.lightblue{
+    color:#35c1fd;
+}
+#data{
+    margin-top: auto;
+    font-size: 80%;
+    color: grey;
+}
+.caption{
+    margin-top: auto;
+    margin-bottom: auto;
+}
 
     
 
