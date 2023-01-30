@@ -1,23 +1,24 @@
 h1{
     margin-bottom: auto;
     font-size: 50px;
-    
 }
+    
 .photos{
     margin-top: 20px;
 }
-.header{
+
+.h-background{
     background-image:url("../img/pattern.png");
     background-color:#4ea0ff;
     height: 180px;
 }
-#logo{
-    margin-left: 20%;
-    width: 15%;
-    margin-top: 3%;
     
-}
 
+#logo{
+    height: 40%;
+    padding-left: 20%;
+    padding-top: 3%;
+}
 .grey{
     color: grey;
 }
@@ -52,23 +53,20 @@ h1{
     width: auto;
 }
 
-.first{
+.left{
     display: inline-block;
     width: 25%;
 }
     
     
-.second{
+.middle{
     display: inline-block;
     width: 25%;
 }
-    
-    
-.description{
+.right{
     display: inline-block;
     width: 48%;
 }
-
 #space{
     margin-top: 20px;
 }
@@ -99,10 +97,15 @@ h1{
     width: 240px;
     height: 150px;
 }
-.appmain{
+.app-main{
     width: 60%;
     margin: auto;
 }
+    
+    
+
+    
+
 
 
     
