@@ -21,7 +21,7 @@ h1{
 .grey{
     color: grey;
 }
-.lightblue{
+.booleaner{
     color:#35c1fd;
 }
 #data{
@@ -35,6 +35,38 @@ h1{
 }
 .yellow{
     background-color: yellow;
+}
+.blue{
+    color: white;
+    background-color:#20a9e5;
+    width: auto;
+}
+.lightblue{
+    color: black;
+    background-color:#b1e5f2;
+    width: auto;
+}
+.white{
+    color: black;
+    background-color: white;
+    width: auto;
+}
+
+.first{
+    display: inline-block;
+    width: 25%;
+}
+    
+    
+.second{
+    display: inline-block;
+    width: 25%;
+}
+    
+    
+.description{
+    display: inline-block;
+    width: 48%;
 }
 
 
