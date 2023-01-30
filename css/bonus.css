@@ -1,3 +1,11 @@
+h1{
+    margin-bottom: auto;
+    
+}
+.photos{
+    margin-top: 20px;
+}
+
 .header{
     background-color:#4ea0ff;
     height: fit-content;
@@ -25,6 +33,7 @@
     margin-top: auto;
     margin-bottom: auto;
 }
+
 
     
 
