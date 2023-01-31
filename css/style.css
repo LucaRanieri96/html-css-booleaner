@@ -12,12 +12,15 @@ h1{
     background-color:#4ea0ff;
     height: 180px;
 }
-    
 
+}
 #logo{
-    height: 40%;
+    
+    
     padding-left: 20%;
     padding-top: 3%;
+    margin: auto;
+
 }
 .grey{
     color: grey;
